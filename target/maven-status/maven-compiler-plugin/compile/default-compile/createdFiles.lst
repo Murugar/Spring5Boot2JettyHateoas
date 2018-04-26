@@ -1,0 +1,3 @@
+com/iqmsoft/entities/Book.class
+com/iqmsoft/daos/BookDao.class
+com/iqmsoft/Main.class
